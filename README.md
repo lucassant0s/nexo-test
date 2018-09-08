@@ -1,4 +1,4 @@
-# Docker Compose with Spring Boot, MongoDB, NGINX
+# Nexo Test - Docker Compose with Spring Boot, MongoDB, NGINX
 
 ## What you'll build
 - A simple Spring Boot application  with MongoDB and NGINX running inside Docker containers 
